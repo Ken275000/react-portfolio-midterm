@@ -1,0 +1,26 @@
+[
+  {
+    "role": "C++",
+    "startDate": "2022",
+    "endDate": "2025",
+    "experiences": ["Worked on a simple game for our final project", "Worked on Arduino project"],
+    "imageSrc": "history/cpp-logo.png"
+  },
+  {
+    "role": "MariaDB",
+    "startDate": "2022",
+    "endDate": "Present",
+    "experiences": ["Created tables, set up relationships, and queried data", "Collaborated with frontend team to optimize database performance"],
+    "imageSrc": "history/mariadblogo2.png"
+  },
+  {
+    "role": "PhpMyAdmin",
+    "startDate": "2022",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Final Project",
+      "Had a good time on Activities"
+    ],
+    "imageSrc": "history/phpAdminlogo2.png"
+  }
+]
